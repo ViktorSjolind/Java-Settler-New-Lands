@@ -1,0 +1,36 @@
+ToDo:
+
+
+	Merchant buying/selling
+	Load map from file for runnable jar
+
+
+X	Player HP	
+X	Player stats
+	Leveling
+X	Player fighting
+X	Player states: fighting/wood cutting/mining/ hit animation?
+X	Woodcutting
+X	Mining
+	
+	
+	
+X	AI HP
+X	AI fighting
+X	Fix generic AI direction animations
+	Dragon damage/HP
+	
+X	Houses
+X	Transition map part
+
+
+
+GUI coordinates:
+
+coin:	785/560		845/605
+wood:	785/630		840/680
+
+stone:	945/560		1020/605
+iron:	945/630		1020/670
+
+food:	1120/565	1170/600
